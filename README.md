@@ -3,7 +3,7 @@
 ## Let's first learn How to solve problems in an in interview in the first place.
 
 - Understand the problem very well.
- - Sometimes people just leave this part that means they start focusing on finding the solution to the problem without having the clear picture of the problem in their head. And that should not be done. 
+    - Sometimes people just leave this part that means they start focusing on finding the solution to the problem without having the clear picture of the problem in their head. And that should not be done. 
   - the output thatis expected from you must be same as your output and that will happen only when you'll have a clear picture of the question in your mind.
  - You should ask the interviewer questions that you have about the edge cases etc.
  - See the constraints [In this part ask the interviewer a lot of Relevant questions]
