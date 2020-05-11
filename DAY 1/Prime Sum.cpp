@@ -1,3 +1,5 @@
+// Question link:- https://www.interviewbit.com/problems/prime-sum/
+
 bool isPrime(int num){
     
     // In this function we will check the number to be prime or not by calculating 4 cases.
