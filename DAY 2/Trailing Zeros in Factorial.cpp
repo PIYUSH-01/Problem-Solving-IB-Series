@@ -1,5 +1,6 @@
 // TC: O(n)
 
+
 int Solution::trailingZeroes(int A) {
     
     int sum = 0;
