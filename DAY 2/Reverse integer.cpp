@@ -1,4 +1,3 @@
-// Question: https://www.interviewbit.com/problems/reverse-integer/
 // Time complexity: 
 
 int Solution::reverse(int A) {

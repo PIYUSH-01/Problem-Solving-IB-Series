@@ -1,4 +1,3 @@
-// Question link: https://www.interviewbit.com/problems/fizzbuzz/
 // TC: O(n)
 
 vector<string> Solution::fizzBuzz(int A) {

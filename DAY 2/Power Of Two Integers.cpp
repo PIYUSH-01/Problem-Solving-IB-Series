@@ -1,5 +1,3 @@
-// Question link: https://www.interviewbit.com/problems/power-of-two-integers/
-
 // Time complexity: 
 
 int Solution::isPower(int A) {

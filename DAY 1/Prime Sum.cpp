@@ -1,5 +1,3 @@
-// Question link:- https://www.interviewbit.com/problems/prime-sum/
-
 //Time complexity:- O(n^3/2)
 //We can improve this solution by using Precomputation and prime seive as in that case we basically calculate all the prime numbers in a given range.
 

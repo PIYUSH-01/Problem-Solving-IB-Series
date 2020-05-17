@@ -1,4 +1,3 @@
-// Question: https://www.interviewbit.com/problems/sum-of-pairwise-hamming-distance/
 // Timecomplexity: O(n)
 
 #define MOD 1000000007

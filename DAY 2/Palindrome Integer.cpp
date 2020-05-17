@@ -1,4 +1,3 @@
-// Question: https://www.interviewbit.com/problems/palindrome-integer/
 // TC: O(n)
 
 

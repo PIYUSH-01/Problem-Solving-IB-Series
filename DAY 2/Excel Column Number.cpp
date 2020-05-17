@@ -1,4 +1,3 @@
-// Question link: https://www.interviewbit.com/problems/excel-column-number/
 // TC: O(n)
 
 // Basically in this question we have used the same approach that we use in conversions like if we convert a bnary to decimal.

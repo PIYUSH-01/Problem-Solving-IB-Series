@@ -1,4 +1,3 @@
-// Question: https://www.interviewbit.com/problems/excel-column-title/
 // TC: O(n)
 
 string Solution::convertToTitle(int A) {
